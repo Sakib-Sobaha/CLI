@@ -61,4 +61,6 @@ git checkout -b branch_name (create and switch to the new branch)
 git branch -d branch_name (delete a branch)
 git log --oneline
 ```
+[Github Details](https://github.com/git-guides/)
+
 
