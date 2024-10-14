@@ -61,6 +61,15 @@ git checkout -b branch_name (create and switch to the new branch)
 git branch -d branch_name (delete a branch)
 git log --oneline
 ```
+
+## Change the remote origin
+```
+
+git remote -v
+git remote set-url origin <new-remote-URL>
+git remote rename old-name new-name (rename the remote)
+
+```
 [Github Details](https://github.com/git-guides/)
 
 
