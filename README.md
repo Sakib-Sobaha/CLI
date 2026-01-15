@@ -37,6 +37,15 @@ git restore <file> (To undo changes)
 git commit --amend -m "msg" (To change the recent commit message)
 ```
 
+## Staging Status 
+```
+git ls-files -s (inspect the state of the Staging Index tree)
+```
+<img width="877" height="481" alt="image" src="https://github.com/user-attachments/assets/f4e15673-14eb-417c-9a5c-b0058f2a45cb" />
+<img width="877" height="481" alt="image" src="https://github.com/user-attachments/assets/383a684a-5bae-499e-b462-ba2bb89bc21e" />
+
+
+
  ## Push to Github
  ```
 git remote add origin repository_HTTP
